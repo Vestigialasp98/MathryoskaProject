@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Engine Projects/MathryoskaProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/Unreal Engine Projects/MathryoskaProject/Content/Blueprint/BP_Mathryoskha_Doll.uasset",
+				"E:/Unreal Engine Projects/MathryoskaProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Unreal Engine Projects/MathryoskaProject/Content/Blueprint/BP_Matryoshka.uasset",
+				"E:/Unreal Engine Projects/MathryoskaProject/Content/Blueprint/Materials/M_Ghostly.uasset",
+				"E:/Unreal Engine Projects/MathryoskaProject/Content/ThirdPerson/Input/Actions/IA_Throw.uasset",
+				"E:/Unreal Engine Projects/MathryoskaProject/Content/ThirdPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
