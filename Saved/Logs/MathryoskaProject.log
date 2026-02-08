@@ -5632,3 +5632,24 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.08-19.43.57:358][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
 [2026.02.08-19.44.14:176][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
 [2026.02.08-19.45.41:108][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.02.08-19.47.39:778][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4864.170410
+[2026.02.08-19.47.40:777][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.08-19.47.40:777][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4864.837891, Update Interval: 334.298523
+[2026.02.08-19.47.59:934][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.02.08-19.48.00:053][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.08-19.48.00:092][823]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/BP_Matryoshka] ([2] browsable assets)...
+[2026.02.08-19.48.00:159][823]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_Matryoshka.BP_Matryoshka]
+[2026.02.08-19.48.00:159][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Matryoshka]
+[2026.02.08-19.48.00:159][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Matryoshka" FILE="../../../../Universite/Jeux_video/Realisation_jeu_video/Build_test/MathryoskaProject/Content/Blueprint/BP_Matryoshka.uasset" SILENT=true
+[2026.02.08-19.48.00:198][823]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Matryoshka
+[2026.02.08-19.48.00:199][823]LogSavePackage: Moving '../../../../Universite/Jeux_video/Realisation_jeu_video/Build_test/MathryoskaProject/Saved/BP_MatryoshkaAE8B0FEA4F71F752ED76358149807470.tmp' to '../../../../Universite/Jeux_video/Realisation_jeu_video/Build_test/MathryoskaProject/Content/Blueprint/BP_Matryoshka.uasset'
+[2026.02.08-19.48.00:209][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.077 ms (total: 404.494 ms)
+[2026.02.08-19.48.00:266][823]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.08-19.48.00:266][823]LogContentValidation: Enabled validators:
+[2026.02.08-19.48.00:266][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.08-19.48.00:266][823]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.08-19.48.00:266][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.08-19.48.00:266][823]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.08-19.48.00:266][823]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.08-19.48.00:266][823]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.08-19.48.00:266][823]AssetCheck: /Game/Blueprint/BP_Matryoshka Validating asset
